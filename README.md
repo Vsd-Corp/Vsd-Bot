@@ -1,2 +1,2 @@
 # Vsd-bot.js
-## Your personal assistant
+## Vsd, your personal assistant.
